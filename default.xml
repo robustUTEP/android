@@ -14,7 +14,7 @@
   <remote name="robust"
            fetch="http://github.com" />
 
-  <default revision="refs/heads/jellybean"
+  <default revision="refs/heads/cm-10.2"
            remote="github"
            sync-c="true"
            sync-j="4" />
