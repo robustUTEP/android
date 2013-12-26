@@ -29,8 +29,6 @@
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="cts" name="platform/cts" remote="aosp" revision="jb-mr2.0-cts-release" groups="cts" />
   <project path="dalvik" name="robustUTEP/android_dalvik" revision="Snappy-10.2" />
-  <project path="kernel" name="robustUTEP/android_kernel_samsung_tuna" revision="master" />
-  <project path="device/samsung/tuna/power" name="robustUTEP/android_device_samsung" revision="master" />
   <project path="developers/build" name="platform/developers/build" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="developers/demos" name="platform/developers/demos" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="developers/docs" name="platform/developers/docs" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
